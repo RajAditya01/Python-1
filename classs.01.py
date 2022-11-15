@@ -1,0 +1,2 @@
+#print(argument)
+print('')

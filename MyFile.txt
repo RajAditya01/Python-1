@@ -1,0 +1,3 @@
+python is easy
+i am learning python
+this is python programming
